@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.makeagif.com%2Fmedia%2F10-14-2020%2FJIIvbT.gif&tbnid=BreFRZwiAp4cTM&vet=12ahUKEwiUkv-lrriAAxWxpekKHSgeCmAQMygfegUIARD-Ag..i&imgrefurl=https%3A%2F%2Fmakeagif.com%2Fgif%2Fbanner-background-JIIvbT&docid=T1evOT8M0m0MDM&w=480&h=270&q=banner%20gif&ved=2ahUKEwiUkv-lrriAAxWxpekKHSgeCmAQMygfegUIARD-Ag)](https://rishavchanda.io)
+[![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)](https://rishavchanda.io)
 <h1 align="center">HI I Am Pawan Kumar Prajapati</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
